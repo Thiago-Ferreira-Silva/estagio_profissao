@@ -12,12 +12,12 @@ O fluxo de caixa é uma ferramenta financeira essencial que registra todas as en
 
 O fluxo de caixa é composto por duas categorias principais de transações:
 
-1. **Entradas de Caixa (Recebimentos):**
+1. **Entradas de Caixa (Receitas):**
    - **Vendas de Produtos ou Serviços:** Inclui todas as receitas geradas pela venda de produtos ou serviços.
    - **Investimentos:** Ingressos de capital resultantes de investimentos, empréstimos ou financiamentos.
    - **Recebimentos de Clientes:** Pagamentos recebidos de clientes por vendas a crédito ou serviços prestados.
 
-2. **Saídas de Caixa (Pagamentos):**
+2. **Saídas de Caixa (Despesas):**
    - **Despesas Operacionais:** Incluem todos os custos relacionados à operação do negócio, como salários, aluguel, contas de serviços públicos, matéria-prima, entre outros.
    - **Pagamentos de Fornecedores:** Pagamentos feitos a fornecedores por mercadorias ou serviços adquiridos.
    - **Pagamentos de Empréstimos e Financiamentos:** Pagamentos de parcelas de empréstimos bancários ou financiamentos.
@@ -34,36 +34,29 @@ O fluxo de caixa desempenha um papel fundamental na gestão financeira de uma em
 
 Em resumo, o fluxo de caixa é uma ferramenta indispensável para a gestão financeira eficaz de uma empresa, fornecendo uma visão detalhada das finanças e permitindo uma tomada de decisão informada e estratégica.
 
-## Por Que o Fluxo de Caixa é Importante?
-
-O fluxo de caixa é essencial para a saúde financeira de uma empresa por várias razões:
-
-- **Planejamento Financeiro:** Permite que os gestores planejem e controlem suas finanças com base em previsões de entradas e saídas de dinheiro.
-- **Tomada de Decisão:** Fornece informações precisas para tomar decisões estratégicas, como investimentos, expansões ou cortes de custos.
-- **Gestão de Riscos:** Ajuda a identificar e mitigar riscos financeiros, como falta de capital de giro ou dificuldades para cumprir obrigações financeiras.
-- **Comprovação de Viabilidade:** Auxilia na demonstração da viabilidade do negócio para investidores, credores e outros stakeholders.
-
 ## Como Utilizar a Planilha de Fluxo de Caixa
 
 A planilha de fluxo de caixa é uma ferramenta poderosa para acompanhar suas finanças de perto. Aqui estão os passos básicos para utilizá-la:
 
 ### Passo 1: Configuração da Planilha
 
-- Abra a planilha de fluxo de caixa no software de planilhas eletrônicas, como Microsoft Excel, Google Sheets ou LibreOffice Calc.
-- Observe as colunas padrão, que geralmente incluem: Data, Descrição, Entradas (+), Saídas (-) e Saldo.
+- Abra o documento em um software de planilhas eletrônicas, como Microsoft Excel, Google Sheets ou LibreOffice Calc.
+- Observe que há um total de 13 planilhas, a primeira com um resumo do fluxo de caixa e uma planilha para cada mês.
 
 ### Passo 2: Registro das Transações
 
+ - Abra a planilha do mês correspondente.
 - Registre todas as transações financeiras diárias na planilha.
 - Na coluna "Data", insira a data da transação.
+- Na coluna "Tipo", selecione se a transação é uma receita ou uma despesa.
 - Na coluna "Descrição", forneça uma breve descrição da transação (por exemplo, venda de produtos, pagamento de despesas, etc.).
-- Nas colunas "Entradas (+)" e "Saídas (-)", insira o valor monetário correspondente à entrada ou saída de dinheiro.
+- Na coluna "Valor", insira o valor monetário correspondente à transação.
 - O saldo será automaticamente calculado pela planilha.
 
 ### Passo 3: Atualização Regular
 
 - Atualize a planilha regularmente, inserindo todas as transações financeiras assim que ocorrerem.
-- Recomenda-se atualizar a planilha diariamente ou semanalmente, dependendo do volume de transações da empresa.
+- Recomenda-se atualizar a planilha diariamente.
 
 ### Passo 4: Análise e Tomada de Decisão
 
